@@ -9,9 +9,10 @@
   <input type="text" id="fname" name="fname" value="John"><br>
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname" value="Doe">
-  <label for="lname">Last name:</label><br>
+ 
+  <h3> <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname" value="Doe">
-
+    </h3>
 </form>
 
 <p>Note that the form itself is not visible.</p>
