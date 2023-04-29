@@ -13,6 +13,11 @@
   <h3> <label for="lname">Email Address:</label><br>
   <input type="text" id="lname" name="lname" value="Doe">
     </h3>
+   <h3> <label for="lname">Enter Password :</label><br>
+  <input type="text" id="lname" name="lname" value="Doe">
+    </h3>
+
+
 </form>
 
 <p>Note that the form itself is not visible.</p>
