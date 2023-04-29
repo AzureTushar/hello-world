@@ -10,7 +10,7 @@
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname" value="Doe">
  
-  <h3> <label for="lname">Last name:</label><br>
+  <h3> <label for="lname">Email Address:</label><br>
   <input type="text" id="lname" name="lname" value="Doe">
     </h3>
 </form>
